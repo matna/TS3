@@ -94,7 +94,7 @@ const char* ts3plugin_version() {
 
 /* Plugin API version. Must be the same as the clients API major version, else the plugin fails to load. */
 int ts3plugin_apiVersion() {
-	return PLUGIN_API_VERSION+1;
+	return PLUGIN_API_VERSION;
 }
 
 /* Plugin author */
