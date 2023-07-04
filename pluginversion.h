@@ -11,7 +11,7 @@
 
 #define VERSION_MAJOR 0 
 #define VERSION_MINOR 59 
-#define VERSION_BUILD 20 
+#define VERSION_BUILD 26 
 #define VERSION_QFE 32 
 
 #define _STR(x) #x
